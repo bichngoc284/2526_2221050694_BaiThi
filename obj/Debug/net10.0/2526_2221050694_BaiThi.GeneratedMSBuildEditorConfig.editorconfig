@@ -50,8 +50,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRoYW5oXGNyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/2526_2221050694_BaiThi/Views/TinhThanh/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRoYW5oXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/2526_2221050694_BaiThi/Views/TinhThanh/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRoYW5oXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/2526_2221050694_BaiThi/Views/TinhThanh/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRoYW5oXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/2526_2221050694_BaiThi/Views/_ViewImports.cshtml]
